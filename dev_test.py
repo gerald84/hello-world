@@ -6,4 +6,5 @@ def dev():
 def feature():
 	pass
 
-
+def bug2():
+	pass
